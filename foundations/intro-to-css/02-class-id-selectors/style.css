@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.middle,
+.topbottom {
+    background-color: pink;
+    color: black;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    }
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+.middle{
+    font-size: 24px;
+}
+
+#another{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
